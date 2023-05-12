@@ -10,6 +10,4 @@ Using machine learning algorithms, a predictive model is trained on the dataset.
 
 The developed car price prediction model has various practical applications, including the automotive industry, online car marketplaces, and insurance companies. It provides valuable insights into the factors influencing car prices and supports informed decision-making for buying, selling, and valuing cars.
 
-The project code and documentation are available on GitHub, providing a comprehensive resource for anyone interested in implementing car price prediction using machine learning in Python. The code is well-documented for easy understanding and reproducibility.
-
 By sharing this project on GitHub, it aims to contribute to the data science and machine learning community, encouraging collaboration and knowledge sharing among enthusiasts and professionals in the field.
